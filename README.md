@@ -1,4 +1,5 @@
 # Llama See, Llama Do
+A Mechanistic Perspective on Contextual Entrainment and Distraction in LLMs
 
 [![Arxiv](https://img.shields.io/badge/Arxiv-2505.09338-red?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2505.09338)  
 
