@@ -26,8 +26,6 @@ This repository accompanies our paper **Llama See, Llama Do: A Mechanistic Pe
 
 ## Citation
 
-🎉 This paper is accepted to ACL 2025! We will update the ACL Anthology bib entry after the proceeding release.
-
 ```bibtex
 @inproceedings{niu-etal-2025-llama,
     title = "Llama See, Llama Do: A Mechanistic Perspective on Contextual Entrainment and Distraction in {LLM}s",
