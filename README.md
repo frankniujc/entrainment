@@ -28,13 +28,25 @@ This repository accompanies our paper **Llama See, Llama Do: A Mechanistic Pe
 🎉 This paper is accepted to ACL 2025! We will update the ACL Anthology bib entry after the proceeding release.
 
 ```bibtex
-@misc{niu2025llamaseellamado,
-      title={Llama See, Llama Do: A Mechanistic Perspective on Contextual Entrainment and Distraction in LLMs}, 
-      author={Jingcheng Niu and Xingdi Yuan and Tong Wang and Hamidreza Saghir and Amir H. Abdi},
-      year={2025},
-      eprint={2505.09338},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2505.09338}, 
+@inproceedings{niu-etal-2025-llama,
+    title = "Llama See, Llama Do: A Mechanistic Perspective on Contextual Entrainment and Distraction in {LLM}s",
+    author = "Niu, Jingcheng  and
+      Yuan, Xingdi  and
+      Wang, Tong  and
+      Saghir, Hamidreza  and
+      Abdi, Amir H.",
+    editor = "Che, Wanxiang  and
+      Nabende, Joyce  and
+      Shutova, Ekaterina  and
+      Pilehvar, Mohammad Taher",
+    booktitle = "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.acl-long.791/",
+    doi = "10.18653/v1/2025.acl-long.791",
+    pages = "16218--16239",
+    ISBN = "979-8-89176-251-0"
 }
 ```
